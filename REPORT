@@ -1,3 +1,4 @@
 LAB 1
     included kernel/types.h in user/user.h
     implemented serial pipelining 
+    recursive file search in xv6, string manipulation using pointers.
